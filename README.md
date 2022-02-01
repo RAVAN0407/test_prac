@@ -1,3 +1,3 @@
-# test_prac
-random text 
-this is a test
+# test_praco
+ this is repository for the assignment
+ 
